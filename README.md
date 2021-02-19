@@ -9,7 +9,7 @@ Do you want to be able to measure what current your board is drawing in real tim
 Or maybe you want to investigate what in-rush current your board draws? If so, this is the product for you!
 
 The TI INA290 is an ultra-precise current sense amplifier that can measure voltage drops across shunt resistors over a wide common-mode range.
-The INA290A1 on our board has a gain of 20 Volts per Volt. We measure the current using a 0.05 Ohm shunt resistor. Together these produce an
+The INA290A1 on our board has a gain of 20 Volts per Volt and we measure the current using a 0.05 Ohm shunt resistor. Together these produce an
 output of 1 Volt per Amp. If your board is drawing 100mA, you will see an output of 100mV. The maximum current it can measure is 2 Amps
 and we've included a 2A resettable fuse for added protection.
 
