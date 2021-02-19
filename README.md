@@ -2,9 +2,7 @@ SparkX USB Current Sensor
 ========================================
 
 ![SparkX USB Current Sensor](./img/Top.png)
-
 ![SparkX USB Current Sensor](./img/Bottom.png)
-
 ![SparkX USB Current Sensor](./img/Dimensions.png)
 
 Do you want to be able to measure what current your board is drawing in real time? Maybe it is a board that draws short bursts of current?
