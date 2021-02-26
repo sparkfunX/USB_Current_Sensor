@@ -8582,7 +8582,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="COM-17044" constant="no"/>
+<attribute name="PROD_ID" value="IC-15832" constant="no"/>
 </technology>
 </technologies>
 </device>
