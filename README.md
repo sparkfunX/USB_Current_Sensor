@@ -29,7 +29,7 @@ Repository Contents
 
 Product Versions
 ----------------
-* [SPX-nnnnn](https://www.sparkfun.com/products/nnnnn) - Original SparkX Release.
+* [SPX-18016](https://www.sparkfun.com/products/18016) - Original SparkX Release.
 
 License Information
 -------------------
