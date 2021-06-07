@@ -3,7 +3,7 @@ SparkX USB Current Sensor
 
 [![SparkX USB Current Sensor (SPX-18016)](https://cdn.sparkfun.com//assets/parts/1/7/2/3/5/18016-USB_Current_Sensor-02.jpg)](https://www.sparkfun.com/products/18016)
 
-[*SparkX USB Current Sensor (SPX-18016)*](https://www.sparkfun.com/products/17729)
+[*SparkX USB Current Sensor (SPX-18016)*](https://www.sparkfun.com/products/18016)
 
 ![SparkX USB Current Sensor](./img/Dimensions.png)
 
